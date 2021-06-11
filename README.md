@@ -1,16 +1,14 @@
 # Pixel Art Maker Project
 
-## Table of Contents
-
-* [Instructions](#instructions)
-* [Contributing](#contributing)
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+This is a single-page web app that allows users to draw pixel art on a canvas which can be customised
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+## User can 
 
-## Contributing
+* set the size of the table 
+* choose a color
+* click a cell in the table wto fill it with chosen color
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+
